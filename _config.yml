@@ -1,0 +1,15 @@
+﻿safe: true
+lsi: false
+pygments: true
+markdown: redcarpet
+auto: true
+title: "cindy's blog"
+public_url: "cindy214.github.com"
+keywords: "android,xml,html,JavaScript,css,Github"
+owner:
+  name: "郭娟"
+  mail: "275256101@qq.com"
+disqus:
+  short_name: "cindy"
+paginate: 10
+exclude: [start-jekyll.bat, Github.sln, Github.v11.suo]
